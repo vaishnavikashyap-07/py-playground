@@ -1,0 +1,10 @@
+# Rock-Paper-Scissors 🎮
+
+A simple Python program to play Rock-Paper-Scissors against the computer.
+
+## How to Play
+Run the script and enter `rock`, `paper`, or `scissors` to play against the computer.
+
+## Skills Practiced
+- Python basics (loops, if-else, input/output)
+- Interactive terminal programs
