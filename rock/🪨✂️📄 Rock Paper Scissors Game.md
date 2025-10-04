@@ -13,11 +13,8 @@ This is a simple Rock Paper Scissors game implemented in Python. The game allows
 
 
 -Play against the computer
-
 -Simple and interactive console-based game
-
 -Uses if-else statements for game logic
-
 -Loop allows multiple rounds without restarting the program
 
 
@@ -27,13 +24,9 @@ This is a simple Rock Paper Scissors game implemented in Python. The game allows
 
 
 -Run the rock\_paper\_scissors.py file in Python.
-
 -Choose your option: Rock, Paper, or Scissors.
-
 -The computer will randomly choose its move.
-
 -The winner is displayed after each round.
-
 -Keep playing until you decide to exit.
 
 
@@ -43,6 +36,6 @@ This is a simple Rock Paper Scissors game implemented in Python. The game allows
 
 
 -Python 3.x installed
-
 -No additional libraries required (uses standard Python modules)
+
 
