@@ -22,4 +22,4 @@ for i in range(len(operators)):
         result *= numbers[i + 1]
     elif operators[i] == '/':
         result /= numbers[i + 1]
-print(result)
+print('result is',result)
